@@ -1,8 +1,0 @@
-
-======================================================
- > shcheck.py - santoru ..............................
-------------------------------------------------------
- Simple tool to check security headers on a webserver 
-======================================================
-
-Target host htpp://10.228.11.50:7012 seems to be unreachable (unknown url type: htpp)

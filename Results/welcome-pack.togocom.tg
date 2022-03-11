@@ -1,9 +1,0 @@
-
-======================================================
- > shcheck.py - santoru ..............................
-------------------------------------------------------
- Simple tool to check security headers on a webserver 
-======================================================
-
-[!] URL Returned an HTTP error: [91m503[0m
-Target host https://welcome-pack.togocom.tg seems to be unreachable (Service Temporarily Unavailable)

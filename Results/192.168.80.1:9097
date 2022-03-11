@@ -1,8 +1,0 @@
-
-======================================================
- > shcheck.py - santoru ..............................
-------------------------------------------------------
- Simple tool to check security headers on a webserver 
-======================================================
-
-Target host https://192.168.80.1:9097 seems to be unreachable (timed out)

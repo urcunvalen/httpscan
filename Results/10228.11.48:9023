@@ -1,8 +1,0 @@
-
-======================================================
- > shcheck.py - santoru ..............................
-------------------------------------------------------
- Simple tool to check security headers on a webserver 
-======================================================
-
-Target host http://10228.11.48:9023 seems to be unreachable ([Errno 8] nodename nor servname provided, or not known)

@@ -1,9 +1,0 @@
-
-======================================================
- > shcheck.py - santoru ..............................
-------------------------------------------------------
- Simple tool to check security headers on a webserver 
-======================================================
-
-[!] URL Returned an HTTP error: [91m500[0m
-Target host https://ms-consumer-status-prep.togocom.tg seems to be unreachable (Internal Server Error)

@@ -1,8 +1,0 @@
-
-======================================================
- > shcheck.py - santoru ..............................
-------------------------------------------------------
- Simple tool to check security headers on a webserver 
-======================================================
-
-Target host https://sunu.togocom.tg seems to be unreachable ([Errno 8] nodename nor servname provided, or not known)
