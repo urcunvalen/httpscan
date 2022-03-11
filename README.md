@@ -20,7 +20,7 @@ HTTPScan peut-être utilisé de deux manières.
 python3 httpscan.py url
 ```
 
-> Note: Veuillez indiquer l'url complète : https://www.URL.com
+> Note: Veuillez indiquer l'url complète : https://URL.com
 
 ### En se basant sur une liste d'URL :
 
@@ -30,6 +30,6 @@ Ce paramètre est modifiable dans les variables globales du fichier httpscan.py.
 ```sh
 python3 httpscan.py
 ```
-> Note: Veuillez indiquer les urls complètes : https://www.URL.com
+> Note: Veuillez indiquer les urls complètes : https://URL.com
 
 Un dossier **Résultats/** est alors généré avec un fichier nominatif pour chaque URL scannée.
